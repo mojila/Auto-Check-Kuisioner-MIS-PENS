@@ -1,4 +1,4 @@
-var cek_semua = () => {
+var cek_semua_praktikum = () => {
   // A
   for (var i = 0; i < 3; i++) {
     option = document.getElementById('a'+(i+1)+'_9');
