@@ -6,3 +6,6 @@ Copas ke Console Browser (CTRL + SHIFT + I)
 
 # PRAKTIKUM
 cek_semua_praktikum()
+
+# TEORI
+cek_semua_teori()
